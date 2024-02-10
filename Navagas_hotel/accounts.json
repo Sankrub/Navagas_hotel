@@ -1,0 +1,77 @@
+{
+    "A1": {
+        "Room Type": "Standard",
+        "Guest name": "None",
+        "Status": "Available"
+    },
+    "A2": {
+        "Room Type": "Standard",
+        "Guest name": "None",
+        "Status": "Available"
+    },
+    "A3": {
+        "Room Type": "Standard",
+        "Guest name": "None",
+        "Status": "Available"
+    },
+    "A4": {
+        "Room Type": "Standard",
+        "Guest name": "None",
+        "Status": "Available"
+    },
+    "A5": {
+        "Room Type": "Standard",
+        "Guest name": "None",
+        "Status": "Available"
+    },
+    "A6": {
+        "Room Type": "Standard",
+        "Guest name": "None",
+        "Status": "Available"
+    },
+    "A7": {
+        "Room Type": "Standard",
+        "Guest name": "None",
+        "Status": "Available"
+    },
+    "A8": {
+        "Room Type": "Standard",
+        "Guest name": "None",
+        "Status": "Available"
+    },
+    "A9": {
+        "Room Type": "Standard",
+        "Guest name": "None",
+        "Status": "Available"
+    },
+    "A10": {
+        "Room Type": "Standard",
+        "Guest name": "None",
+        "Status": "Available"
+    },
+    "B11": {
+        "Room Type": "Luxury",
+        "Guest name": "None",
+        "Status": "Available"
+    },
+    "B12": {
+        "Room Type": "Luxury",
+        "Guest name": "None",
+        "Status": "Available"
+    },
+    "B13": {
+        "Room Type": "Luxury",
+        "Guest name": "None",
+        "Status": "Available"
+    },
+    "B14": {
+        "Room Type": "Luxury",
+        "Guest name": "Yo",
+        "Status": "Reserved"
+    },
+    "B15": {
+        "Room Type": "Luxury",
+        "Guest name": "SAN",
+        "Status": "Reserved"
+    }
+}
